@@ -13,3 +13,15 @@ git status 查看工作区跟版本库中的不同
 555555555555555
 
 以上是产生版本做的操作
+
+get reset --hard HEAD^....一个上箭头代表返回上一层，俩表示俩，仨表示仨。。。
+
+
+
+666666666666666
+git remote add origin https://github.com/zjf-ff/project.git
+ git push -u origin master
+zjf-ff
+然后在弹出框里英文输入法下 输入密码
+然后等待上传，如果上传成功在github上刷新检查页面
+
